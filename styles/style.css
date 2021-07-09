@@ -29,7 +29,7 @@ body {
 }
 
 .logotip {
-    background-color:#F9F9F9; 
+    background-color:#FFFFFF; 
 }
 
 
@@ -46,8 +46,7 @@ body {
 .item {
     display: inline-block;
     vertical-align: top;
-    margin-right: 30px;
-    text-decoration: none;      
+    margin-right: 30px;    
 }
 
 
@@ -60,6 +59,8 @@ body {
     float: left;
     padding-top: 10px;
     padding-bottom: 11px;
+    font-size: 16px;
+     
 }
 
 .button {
@@ -107,3 +108,100 @@ body {
     clear: both;
 }
 
+.item-ser {
+    margin-right: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.link-ser {
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.list-ser {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.item-ser:last-child {
+    margin-right: 0px;
+}
+
+.imag {
+    background-color: pink;   
+}
+
+.container-imag{
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.icon {
+    
+    background-size: contain;
+    background-position: center;
+    background-image: url('../images/Rectangle2.png');
+    background-repeat: no-repeat;
+    padding-bottom: 193px;
+    padding-top: 186px;
+    color: #FFFFFF;
+}
+
+.subject{
+  
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    margin-bottom: 42px;
+    
+}
+
+.text {
+    line-height: 20px;
+    width: 308px;
+    margin-bottom: 47px;
+}
+
+.but {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 10px 24px 10px 25px;
+    background-color: #F13C6E;
+    border: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #FFFFFF; 
+    letter-spacing: 0.05em;
+}
+
+
+.proposit {
+    background-color: #EFEFEF;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+
+.conteiner-proposit {
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 81px;
+}
+
+.title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 38px;
+}
