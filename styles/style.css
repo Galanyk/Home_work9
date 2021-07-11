@@ -263,6 +263,13 @@ body {
     float: left;
     margin-bottom: 100px;
 }
+.conteiner--bonys {
+    float: left;
+}
+
+.picture {
+    float:right; 
+}
 
 .clearfix::after {
     content: '';
@@ -270,13 +277,10 @@ body {
     display: block;
 }
 
-
-
 .caption {
     font-size: 18px;
     line-height: 21px;
     margin-bottom: 23px; 
-    
 }
 
 .bonys {
@@ -289,17 +293,10 @@ body {
     background-color: #FFFFFF;
     border: none;
     border-radius: 30px;
-    padding: 9px 104px 10px 25px;
- 
+    padding: 9px 104px 10px 25px; 
 }
 
-.conteiner--bonys {
-    float: left;
-}
 
-.picture {
-    float:right; 
-}
 
 .map {
     width: 141px;
@@ -344,4 +341,56 @@ body {
  .item-logo:nth-child(n+9) {
   
     border-bottom-width: 0px; 
- }
+}
+
+ .list-card-second {
+    padding-bottom: 80px;
+}
+
+ .categories {
+    background-color: #FFFFFF;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+ .cont-categories{
+    margin-left:  auto;
+    margin-right: auto;
+    width: 1110px;
+}
+
+ .subject-categories {
+    font-size: 16px;
+    line-height: 23px;
+    font-weight: 500;
+    width: 99px;
+    padding-top: 58px;
+    padding-bottom: 28px;
+   
+}
+
+ .link-categories {
+    text-decoration: none;
+    color: #828282;
+    font-size: 12px;
+    line-height: 28px;
+}
+
+.list-categories {
+    padding-top: 25px;
+    width: 255px;
+    border-style: solid;
+    border-top-width: 1px; 
+    border-color: #EFEFEF;
+    
+}
+
+.cont-categ {
+    float: left;
+    margin-right: 30px;
+}
+
+.cont-categ:last-child {
+    margin-right: 0px;
+}
+
