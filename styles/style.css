@@ -10,14 +10,13 @@ body {
     color: #000000;
 }
 
-
-
 .header {
     background-color: #E5E5E5;
     padding-top: 17px;
     padding-bottom: 17px;
     margin-left:  auto;
     margin-right: auto;
+   
 }
 
 .container {
@@ -25,18 +24,20 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    
+}
+.line {
+    border-style: solid;
+    border-bottom-width: 1px; 
+    border-color: #EFEFEF;
 }
 
 .logotip {
     background-color:#FFFFFF; 
 }
 
-
 .link {
     color: #333333;
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
 
 .item:last-child {
@@ -49,8 +50,6 @@ body {
     margin-right: 30px;    
 }
 
-
-
 .tel {
     text-decoration: none;
     line-height: 18px;
@@ -59,8 +58,7 @@ body {
     float: left;
     padding-top: 10px;
     padding-bottom: 11px;
-    font-size: 16px;
-     
+    font-size: 16px;    
 }
 
 .button {
@@ -128,8 +126,7 @@ body {
     background-position: center;
     background-color: #F13C6E;   
     background-image: url('../images/Rectangle2.png');
-    background-repeat: no-repeat;
- 
+    background-repeat: no-repeat; 
 }
 
 .container-imag{
@@ -245,8 +242,6 @@ body {
     margin-bottom: 13px;
 } 
 
-
-
 .pink {
     color: #FFFFFF;
     background-color: #F13C6E;
@@ -357,6 +352,7 @@ body {
     margin-left:  auto;
     margin-right: auto;
     width: 1110px;
+    
 }
 
  .subject-categories {
@@ -388,9 +384,68 @@ body {
 .cont-categ {
     float: left;
     margin-right: 30px;
+    padding-bottom: 55px;
+    padding-top: 20px;
 }
 
 .cont-categ:last-child {
     margin-right: 0px;
 }
 
+.footer {
+    background-color: #FFFFFF;
+    margin-left:  auto;
+    margin-right: auto;;
+   
+    
+    
+}
+
+.sots-seti {
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+   
+.link-seti {
+    margin-right: 20px;
+    text-decoration: none;
+   
+}
+
+.link-seti:last-child {
+    margin-right: 0px;
+}
+.cont-seti {
+    float: left;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.info {
+    background-color: #EFEFEF;
+}
+
+.cont-info {
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-info {
+    text-decoration: none;
+    color: #828282;
+    font-size: 12px;
+    line-height: 14px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.text-info.link-info {
+    float: left;
+}
+
+.link-info {
+    float: right;
+}
