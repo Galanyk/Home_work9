@@ -81,16 +81,16 @@ body {
     float: right;
     padding-top: 40px;
     padding-bottom: 40px;
-    
 }
 
-.logo-1 {
+.link-logo-1 {
     float: left;
     margin-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
 }
-.logo-2 {
+
+.link-logo-2 {
     font-size: 36px;
     line-height: 42px;
     letter-spacing: 0.1em;
@@ -118,56 +118,53 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
 .item-ser:last-child {
     margin-right: 0px;
 }
 
-.imag {
+.icon {
     background-position: center;
     background-color: #F13C6E;   
     background-image: url('../images/Rectangle2.png');
     background-repeat: no-repeat; 
 }
 
-.container-imag{
+.container-icon{
     width: 1110px;
     margin-left: auto;
     margin-right: auto;  
 }
 
-.icon {
+.cont-icon {
     padding-bottom: 193px;
-    padding-top: 186px; 
+    padding-top: 185px; 
     background-size: contain;
     color: #FFFFFF;
 }
 
-.subject{
+.title-icon{
     font-weight: 700;
     font-size: 48px;
     line-height: 56px;
     margin-bottom: 42px;  
 }
 
-.text {
+.text-icon {
     line-height: 20px;
     width: 308px;
     margin-bottom: 47px;
 }
 
-.but {
+.link-btm {
     display: inline-block;
     vertical-align: top;
     text-decoration: none;
     text-align: center;
     color: #FFFFFF;
-    font-size: 14px;
-    line-height: 16px;
-    padding: 10px 24px 10px 25px;
+    padding: 10px 44px 11px 44px;
     background-color: #F13C6E;
     border: 2px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     border-radius: 40px;
     border-style: solid;
     border-color: #FFFFFF; 
@@ -213,7 +210,6 @@ body {
     margin-right: 0px;
 }
 
-
 .card {
     background-size: contain;
     background-position: center;
@@ -242,12 +238,12 @@ body {
     margin-bottom: 13px;
 } 
 
-.pink {
+.btn-pink {
     color: #FFFFFF;
     background-color: #F13C6E;
     letter-spacing: 0.05em;
     border: none;
-    padding: 9px 40px 10px 39px ;
+    padding: 9px 40px 10px 40px ;
 }
 
 .conteiner-bonys {
@@ -288,18 +284,16 @@ body {
     background-color: #FFFFFF;
     border: none;
     border-radius: 30px;
-    padding: 9px 104px 10px 25px; 
+    padding: 9px 29px 10px 25px; 
 }
 
-
-
-.map {
+.text-map {
     width: 141px;
-   margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
-.maps {
-    padding: 7px 26px 8px 27px;
+.link-map {
+    padding: 7px 27px 8px 27px;
     letter-spacing: 0em;
 }
 
@@ -314,7 +308,7 @@ body {
 .item-logo {
     display: inline-block;
     vertical-align: top;
-    padding: 34px 67px 33px 60px;
+    padding: 33px 67px 33px 60px;
     border-style: solid;
     border-bottom-width: 1px; 
     border-color: #EFEFEF;
@@ -323,7 +317,7 @@ body {
 
 .list-logo {
     background-color: #FFFFFF;
-    margin-bottom: 79px;
+    margin-bottom: 80px;
 }
  .link-logo {
     text-decoration: none;
@@ -352,6 +346,7 @@ body {
     margin-left:  auto;
     margin-right: auto;
     width: 1110px;
+    padding-top: 58px;
     
 }
 
@@ -360,9 +355,8 @@ body {
     line-height: 23px;
     font-weight: 500;
     width: 99px;
-    padding-top: 58px;
+    
     padding-bottom: 28px;
-   
 }
 
  .link-categories {
@@ -373,19 +367,18 @@ body {
 }
 
 .list-categories {
-    padding-top: 25px;
+    padding-top: 20px;
     width: 255px;
     border-style: solid;
     border-top-width: 1px; 
     border-color: #EFEFEF;
-    
 }
 
 .cont-categ {
     float: left;
     margin-right: 30px;
     padding-bottom: 55px;
-    padding-top: 20px;
+    
 }
 
 .cont-categ:last-child {
@@ -395,23 +388,18 @@ body {
 .footer {
     background-color: #FFFFFF;
     margin-left:  auto;
-    margin-right: auto;;
-   
-    
-    
+    margin-right: auto;    
 }
 
 .sots-seti {
     width: 1110px;
     margin-left: auto;
     margin-right: auto;
-    
 }
    
 .link-seti {
     margin-right: 20px;
     text-decoration: none;
-   
 }
 
 .link-seti:last-child {
