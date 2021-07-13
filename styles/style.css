@@ -138,7 +138,7 @@ body {
 
 .cont-icon {
     padding-bottom: 193px;
-    padding-top: 185px; 
+    padding-top: 186px; 
     background-size: contain;
     color: #FFFFFF;
 }
@@ -162,7 +162,7 @@ body {
     text-decoration: none;
     text-align: center;
     color: #FFFFFF;
-    padding: 10px 44px 11px 44px;
+    padding: 10px 44px 10px 44px;
     background-color: #F13C6E;
     border: 2px;
     border-radius: 40px;
@@ -284,7 +284,7 @@ body {
     background-color: #FFFFFF;
     border: none;
     border-radius: 30px;
-    padding: 9px 29px 10px 25px; 
+    padding: 10px 31px 10px 25px; 
 }
 
 .text-map {
@@ -308,7 +308,7 @@ body {
 .item-logo {
     display: inline-block;
     vertical-align: top;
-    padding: 33px 67px 33px 60px;
+    padding: 32px 67px 33px 60px;
     border-style: solid;
     border-bottom-width: 1px; 
     border-color: #EFEFEF;
@@ -328,7 +328,7 @@ body {
  }
 
  .item-logo:nth-child(n+9) {
-  
+    padding-top: 33px;
     border-bottom-width: 0px; 
 }
 
@@ -346,7 +346,7 @@ body {
     margin-left:  auto;
     margin-right: auto;
     width: 1110px;
-    padding-top: 58px;
+    padding-top: 57px;
     
 }
 
@@ -355,8 +355,7 @@ body {
     line-height: 23px;
     font-weight: 500;
     width: 99px;
-    
-    padding-bottom: 28px;
+    padding-bottom: 26px;
 }
 
  .link-categories {
@@ -408,7 +407,7 @@ body {
 .cont-seti {
     float: left;
     padding-top: 36px;
-    padding-bottom: 36px;
+    padding-bottom: 35px;
 }
 
 .info {
