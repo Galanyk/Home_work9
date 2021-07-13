@@ -16,7 +16,6 @@ body {
     padding-bottom: 17px;
     margin-left:  auto;
     margin-right: auto;
-   
 }
 
 .container {
@@ -25,6 +24,7 @@ body {
     margin-right: auto;
     text-align: center;
 }
+
 .line {
     border-style: solid;
     border-bottom-width: 1px; 
@@ -204,8 +204,8 @@ body {
     padding-right: 30px;
     padding-left: 30px;
     margin-right: 30px;
-    
 }
+
 .card-proposit:last-child {
     margin-right: 0px;
 }
@@ -229,7 +229,6 @@ body {
     font-size: 21px;
     line-height: 25px;
     letter-spacing: 0.05em;
-   
     margin-bottom: 17px;
 }
 .prop {
@@ -254,6 +253,7 @@ body {
     float: left;
     margin-bottom: 100px;
 }
+
 .conteiner--bonys {
     float: left;
 }
@@ -319,38 +319,38 @@ body {
     background-color: #FFFFFF;
     margin-bottom: 80px;
 }
- .link-logo {
+
+.link-logo {
     text-decoration: none;
- }
+}
 
- .item-logo:nth-child(4n+4) {
+.item-logo:nth-child(4n+4) {
     border-right-width: 0px;
- }
+}
 
- .item-logo:nth-child(n+9) {
+.item-logo:nth-child(n+9) {
     padding-top: 33px;
     border-bottom-width: 0px; 
 }
 
- .list-card-second {
+.list-card-second {
     padding-bottom: 80px;
 }
 
- .categories {
+.categories {
     background-color: #FFFFFF;
     margin-left:  auto;
     margin-right: auto;
 }
 
- .cont-categories{
+.cont-categories{
     margin-left:  auto;
     margin-right: auto;
     width: 1110px;
-    padding-top: 57px;
-    
+    padding-top: 57px;    
 }
 
- .subject-categories {
+.subject-categories {
     font-size: 16px;
     line-height: 23px;
     font-weight: 500;
@@ -358,7 +358,7 @@ body {
     padding-bottom: 26px;
 }
 
- .link-categories {
+.link-categories {
     text-decoration: none;
     color: #828282;
     font-size: 12px;
@@ -404,6 +404,7 @@ body {
 .link-seti:last-child {
     margin-right: 0px;
 }
+
 .cont-seti {
     float: left;
     padding-top: 36px;
